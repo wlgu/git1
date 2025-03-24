@@ -12,3 +12,6 @@
 8. 上传本地仓库到远程仓库 (申请github或 gitee账号， git push）
 9.两到三人一组，A，B，（C）
 B（C ） fork A 的github仓库，本地修改后，通过pull request 合并到A的git hub仓库中
+
+
+gvyffytu
