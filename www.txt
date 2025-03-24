@@ -1,0 +1,13 @@
+实验一   版本配置管理工具Git的使用
+实验前准备：网上搜索Git和Github视频和文字资料并学习（如百度搜索Git入门）
+实验基本要求：
+1. 下载Git（网上或学习通资料），用Git Bash 操作（命令行方式）
+ 2. 设置用户和邮箱	（git config ）
+3.创建仓库  （git init ）
+4.  添加文件到仓库（ git add ,git commit)
+5.多次修改文件，多次commit
+6. 回滚到前面的某一版本（git reset)
+7.  建立一个分支（git branch),修改文件后，和master分支合并（git merge)
+8. 上传本地仓库到远程仓库 (申请github或 gitee账号， git push）
+9.两到三人一组，A，B，（C）
+B（C ） fork A 的github仓库，本地修改后，通过pull request 合并到A的git hub仓库中
