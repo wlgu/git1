@@ -1,4 +1,4 @@
-第二次修改
+第三次修改
 实验一   版本配置管理工具Git的使用
 实验前准备：网上搜索Git和Github视频和文字资料并学习（如百度搜索Git入门）
 实验基本要求：
@@ -23,3 +23,12 @@ asdfghjkl
 
 qwertyuiop
 cuiufgwhduw
+
+
+
+
+
+
+
+
+qwertyuioo
